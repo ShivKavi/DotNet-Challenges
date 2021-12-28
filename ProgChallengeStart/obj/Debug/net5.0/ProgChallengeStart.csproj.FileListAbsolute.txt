@@ -1,0 +1,32 @@
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.AssemblyReference.cache
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\ShivKavi\Downloads\Ex_Files_Learning_C_Sharp\Ex_Files_Learning_C_Sharp\Exercise Files\Finished\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.AssemblyReference.cache
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache
