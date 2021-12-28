@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4lzhm7Sx4UfYTyzjLNZIVdt5SJaiRb3GHzk4FVYefw36nrKsV9Un+P1+lK/br8HPzmhjNMUR58zVY1YKNSpPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ShivKavi\\Downloads\\Ex_Files_Learning_C_Sharp\\Ex_Files_Learning_C_Sharp\\Exercise Files\\Finished\\Classes\\ProgChallenge\\ProgChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShivKavi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ShivKavi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ShivKavi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ShivKavi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
