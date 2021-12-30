@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ProgChallengeStart
-build_property.ProjectDir = C:\Users\ShivKavi\Desktop\DotNet-Challenges\ProgChallengeStart\
+build_property.RootNamespace = IntfChallengeSolution
+build_property.ProjectDir = c:\Users\ShivKavi\Downloads\C-sharp-Interfaces-and-generics-3152729-main\C-sharp-Interfaces-and-generics-3152729-main\Ch02\02_08\IntfChallengeSolution\
